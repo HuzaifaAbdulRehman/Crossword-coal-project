@@ -19,5 +19,10 @@ The system consists of several key components:
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/HuzaifaAbdulRehman/Crossword-coal-project.git
    cd crossword-project
+
+   ##Project members
+   ;Ashhad Hassan 23K-0584
+   ;Huzaifa Abdul rehman 23k-0782
+   ;Muhammad hassaan 23k-0570 
